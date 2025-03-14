@@ -137,7 +137,7 @@ fun EmotionDetectorApp(
         // another button to analyze the image
         if (capturedImage != null) {
             Button(
-                onClick = { /* model functionc called here */ },
+                onClick = { /* model function called here */ },
                 modifier = Modifier
                     .fillMaxWidth()
                     .height(56.dp)
